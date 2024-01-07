@@ -29,3 +29,7 @@ border: 10px solid black;
 img{
     width:95%;
 }
+img:hover, img:focus{
+    opacity:1;
+    border:2px solid black;
+  }
